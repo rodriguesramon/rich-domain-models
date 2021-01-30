@@ -1,0 +1,12 @@
+/home/ramon/Documents/development/dominios_ricos/PaymentContext/PaymentContext.Shared/bin/Debug/net5.0/PaymentContext.Shared.deps.json
+/home/ramon/Documents/development/dominios_ricos/PaymentContext/PaymentContext.Shared/bin/Debug/net5.0/PaymentContext.Shared.dll
+/home/ramon/Documents/development/dominios_ricos/PaymentContext/PaymentContext.Shared/bin/Debug/net5.0/ref/PaymentContext.Shared.dll
+/home/ramon/Documents/development/dominios_ricos/PaymentContext/PaymentContext.Shared/bin/Debug/net5.0/PaymentContext.Shared.pdb
+/home/ramon/Documents/development/dominios_ricos/PaymentContext/PaymentContext.Shared/obj/Debug/net5.0/PaymentContext.Shared.csprojAssemblyReference.cache
+/home/ramon/Documents/development/dominios_ricos/PaymentContext/PaymentContext.Shared/obj/Debug/net5.0/PaymentContext.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/home/ramon/Documents/development/dominios_ricos/PaymentContext/PaymentContext.Shared/obj/Debug/net5.0/PaymentContext.Shared.AssemblyInfoInputs.cache
+/home/ramon/Documents/development/dominios_ricos/PaymentContext/PaymentContext.Shared/obj/Debug/net5.0/PaymentContext.Shared.AssemblyInfo.cs
+/home/ramon/Documents/development/dominios_ricos/PaymentContext/PaymentContext.Shared/obj/Debug/net5.0/PaymentContext.Shared.csproj.CoreCompileInputs.cache
+/home/ramon/Documents/development/dominios_ricos/PaymentContext/PaymentContext.Shared/obj/Debug/net5.0/PaymentContext.Shared.dll
+/home/ramon/Documents/development/dominios_ricos/PaymentContext/PaymentContext.Shared/obj/Debug/net5.0/ref/PaymentContext.Shared.dll
+/home/ramon/Documents/development/dominios_ricos/PaymentContext/PaymentContext.Shared/obj/Debug/net5.0/PaymentContext.Shared.pdb
