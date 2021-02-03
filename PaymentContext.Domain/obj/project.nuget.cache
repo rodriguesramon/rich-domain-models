@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "FFxDx1WLOtMs6PKZ7ht905toGh6NRo9pqSbV69ns1KxAoui3e0203+e1BvpJrkVxNYFfrccMxvpL3E1B10fRvw==",
+  "dgSpecHash": "jCuRl21VALOLr9oQZxHPz4sUnDs2tbZ4pdYz2OpYphQm1SYQyBkVW9U3gm/c5GLj/yx4h7PVEnQPgL2n+aeyQw==",
   "success": true,
   "projectFilePath": "/home/ramon/Documents/development/dominios_ricos/PaymentContext/PaymentContext.Domain/PaymentContext.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/ramon/.nuget/packages/flunt/1.0.5/flunt.1.0.5.nupkg.sha512"
+  ],
   "logs": []
 }

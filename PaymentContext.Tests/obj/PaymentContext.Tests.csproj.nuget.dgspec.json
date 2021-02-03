@@ -4,14 +4,76 @@
     "/home/ramon/Documents/development/dominios_ricos/PaymentContext/PaymentContext.Tests/PaymentContext.Tests.csproj": {}
   },
   "projects": {
-    "/home/ramon/Documents/development/dominios_ricos/PaymentContext/PaymentContext.Tests/PaymentContext.Tests.csproj": {
+    "/home/ramon/Documents/development/dominios_ricos/PaymentContext/PaymentContext.Domain/PaymentContext.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ramon/Documents/development/dominios_ricos/PaymentContext/PaymentContext.Tests/PaymentContext.Tests.csproj",
-        "projectName": "PaymentContext.Tests",
-        "projectPath": "/home/ramon/Documents/development/dominios_ricos/PaymentContext/PaymentContext.Tests/PaymentContext.Tests.csproj",
+        "projectUniqueName": "/home/ramon/Documents/development/dominios_ricos/PaymentContext/PaymentContext.Domain/PaymentContext.Domain.csproj",
+        "projectName": "PaymentContext.Domain",
+        "projectPath": "/home/ramon/Documents/development/dominios_ricos/PaymentContext/PaymentContext.Domain/PaymentContext.Domain.csproj",
         "packagesPath": "/home/ramon/.nuget/packages/",
-        "outputPath": "/home/ramon/Documents/development/dominios_ricos/PaymentContext/PaymentContext.Tests/obj/",
+        "outputPath": "/home/ramon/Documents/development/dominios_ricos/PaymentContext/PaymentContext.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ramon/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/home/ramon/Documents/development/dominios_ricos/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj": {
+                "projectPath": "/home/ramon/Documents/development/dominios_ricos/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Flunt": {
+              "target": "Package",
+              "version": "[1.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ramon/Documents/development/dominios_ricos/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ramon/Documents/development/dominios_ricos/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj",
+        "projectName": "PaymentContext.Shared",
+        "projectPath": "/home/ramon/Documents/development/dominios_ricos/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj",
+        "packagesPath": "/home/ramon/.nuget/packages/",
+        "outputPath": "/home/ramon/Documents/development/dominios_ricos/PaymentContext/PaymentContext.Shared/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/ramon/.nuget/NuGet/NuGet.Config"
@@ -38,6 +100,75 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Flunt": {
+              "target": "Package",
+              "version": "[1.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ramon/Documents/development/dominios_ricos/PaymentContext/PaymentContext.Tests/PaymentContext.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ramon/Documents/development/dominios_ricos/PaymentContext/PaymentContext.Tests/PaymentContext.Tests.csproj",
+        "projectName": "PaymentContext.Tests",
+        "projectPath": "/home/ramon/Documents/development/dominios_ricos/PaymentContext/PaymentContext.Tests/PaymentContext.Tests.csproj",
+        "packagesPath": "/home/ramon/.nuget/packages/",
+        "outputPath": "/home/ramon/Documents/development/dominios_ricos/PaymentContext/PaymentContext.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ramon/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/home/ramon/Documents/development/dominios_ricos/PaymentContext/PaymentContext.Domain/PaymentContext.Domain.csproj": {
+                "projectPath": "/home/ramon/Documents/development/dominios_ricos/PaymentContext/PaymentContext.Domain/PaymentContext.Domain.csproj"
+              },
+              "/home/ramon/Documents/development/dominios_ricos/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj": {
+                "projectPath": "/home/ramon/Documents/development/dominios_ricos/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Flunt": {
+              "target": "Package",
+              "version": "[1.0.5, )"
+            },
             "MSTest.TestAdapter": {
               "target": "Package",
               "version": "[2.1.1, )"

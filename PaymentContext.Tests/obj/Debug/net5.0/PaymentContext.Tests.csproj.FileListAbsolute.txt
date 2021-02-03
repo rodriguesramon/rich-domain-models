@@ -95,3 +95,7 @@
 /home/ramon/Documents/development/dominios_ricos/PaymentContext/PaymentContext.Tests/obj/Debug/net5.0/ref/PaymentContext.Tests.dll
 /home/ramon/Documents/development/dominios_ricos/PaymentContext/PaymentContext.Tests/obj/Debug/net5.0/PaymentContext.Tests.pdb
 /home/ramon/Documents/development/dominios_ricos/PaymentContext/PaymentContext.Tests/obj/Debug/net5.0/PaymentContext.Tests.genruntimeconfig.cache
+/home/ramon/Documents/development/dominios_ricos/PaymentContext/PaymentContext.Tests/bin/Debug/net5.0/PaymentContext.Domain.dll
+/home/ramon/Documents/development/dominios_ricos/PaymentContext/PaymentContext.Tests/bin/Debug/net5.0/PaymentContext.Shared.dll
+/home/ramon/Documents/development/dominios_ricos/PaymentContext/PaymentContext.Tests/bin/Debug/net5.0/PaymentContext.Shared.pdb
+/home/ramon/Documents/development/dominios_ricos/PaymentContext/PaymentContext.Tests/bin/Debug/net5.0/PaymentContext.Domain.pdb
