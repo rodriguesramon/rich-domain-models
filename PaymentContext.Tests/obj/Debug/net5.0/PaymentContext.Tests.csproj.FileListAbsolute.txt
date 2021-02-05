@@ -99,3 +99,4 @@
 /home/ramon/Documents/development/dominios_ricos/PaymentContext/PaymentContext.Tests/bin/Debug/net5.0/PaymentContext.Shared.dll
 /home/ramon/Documents/development/dominios_ricos/PaymentContext/PaymentContext.Tests/bin/Debug/net5.0/PaymentContext.Shared.pdb
 /home/ramon/Documents/development/dominios_ricos/PaymentContext/PaymentContext.Tests/bin/Debug/net5.0/PaymentContext.Domain.pdb
+/home/ramon/Documents/development/dominios_ricos/PaymentContext/PaymentContext.Tests/bin/Debug/net5.0/Flunt.dll

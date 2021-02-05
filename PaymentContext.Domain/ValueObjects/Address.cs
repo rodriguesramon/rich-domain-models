@@ -18,8 +18,8 @@ namespace PaymentContext.Domain.ValueObjects
             AddNotifications(new Contract()
                 .Requires()
                 .HasMinLen(street, 3, "Name.Street","Nome da rua deve conter pelo menos 3 caracteres")
-                .HasMinLen(FirstName, 3, "Name.LastName","Sobrenome deve conter pelo menos 3 caracteres")
-                .HasMaxLen(FirstName, 40, "Name.LastName","Nome deve conter no máximo 40 caracteres")
+                .HasMinLen(street, 3, "Name.LastName","Sobrenome deve conter pelo menos 3 caracteres")
+                .HasMaxLen(street, 40, "Name.LastName","Nome deve conter no máximo 40 caracteres")
             );
         }
 
