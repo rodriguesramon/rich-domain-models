@@ -52,32 +52,39 @@
     ]
   },
   "packageFolders": {
-    "/home/ramon/.nuget/packages/": {}
+    "C:\\Users\\15123\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ramon/Documents/development/dominios_ricos/PaymentContext/PaymentContext.Domain/PaymentContext.Domain.csproj",
+      "projectUniqueName": "C:\\development\\rich-domain-models\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
       "projectName": "PaymentContext.Domain",
-      "projectPath": "/home/ramon/Documents/development/dominios_ricos/PaymentContext/PaymentContext.Domain/PaymentContext.Domain.csproj",
-      "packagesPath": "/home/ramon/.nuget/packages/",
-      "outputPath": "/home/ramon/Documents/development/dominios_ricos/PaymentContext/PaymentContext.Domain/obj/",
+      "projectPath": "C:\\development\\rich-domain-models\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
+      "packagesPath": "C:\\Users\\15123\\.nuget\\packages\\",
+      "outputPath": "C:\\development\\rich-domain-models\\PaymentContext.Domain\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "/home/ramon/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\15123\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/BemolDigital/3c81d599-e210-445e-b7b9-723c61fc8230/_packaging/BSF-ContaBemol/nuget/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/home/ramon/Documents/development/dominios_ricos/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj": {
-              "projectPath": "/home/ramon/Documents/development/dominios_ricos/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj"
+            "C:\\development\\rich-domain-models\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
+              "projectPath": "C:\\development\\rich-domain-models\\PaymentContext.Shared\\PaymentContext.Shared.csproj"
             }
           }
         }
@@ -112,7 +119,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
